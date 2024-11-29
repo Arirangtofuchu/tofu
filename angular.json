@@ -22,7 +22,7 @@
           "options": {
             "allowedCommonJsDependencies": [
               "chart.js"
-           ],
+            ],
             "outputPath": "dist/Rocker",
             "index": "src/index.html",
             "main": "src/main.ts",
@@ -93,6 +93,11 @@
         },
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "port": 8080,
+            "host": "0.0.0.0",
+            "disableHostCheck": true
+          },
           "configurations": {
             "production": {
               "browserTarget": "Rocker:build:production"

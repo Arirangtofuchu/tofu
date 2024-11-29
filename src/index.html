@@ -98,6 +98,14 @@
     
           return new File([u8arr], fileName, { type: mime });
         };
+
+      //   const downloadImage = (imageData) => {
+      //   const link = document.createElement('a');
+      //   link.href = imageData;
+      //   link.download = 'captured-image.png'; // 자동으로 다운로드되는 파일 이름
+      //   link.click(); // 자동으로 클릭하여 다운로드
+      // };
+
     
         const uploadImage = async (imageFile) => {
           const apiUrl = "https://60h5ycbiwd.execute-api.us-east-1.amazonaws.com/test1?file=33.bmp";
