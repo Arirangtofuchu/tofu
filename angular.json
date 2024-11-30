@@ -23,7 +23,7 @@
             "allowedCommonJsDependencies": [
               "chart.js"
             ],
-            "outputPath": "dist/Rocker",
+            "outputPath": "dist/",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
