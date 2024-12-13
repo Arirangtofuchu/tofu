@@ -20,6 +20,9 @@ AWS AINATION 컴퓨팅 비전 프로젝트(2024.11)
     - resnet_deploy.ipynb: sagemaker endpoint 생성 파일
     - inference.py
 
+## 발표자료
+https://www.canva.com/design/DAGXlYKxrF8/izlb2qvIc-BQQxAaGEHvXA/edit?utm_content=DAGXlYKxrF8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+
 ## 팀원
 - 김효정(팀장) : 모델링, AWS 인프라
 - 김진솔 : 모델링, 프론트엔드
