@@ -1,0 +1,24 @@
+.wrapper {
+    background-color: #f0f0f0;
+    height: 514px;          
+   
+}
+
+#chart9{
+    display: flex;            
+    justify-content: center;   
+    align-items: center;     
+
+}
+
+#chart-text{
+    display: flex;  
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;      
+}
+
+.bold{
+    font-size: 20px;
+    font-weight: bold;
+}

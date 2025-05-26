@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2024-11-27",
+        "ok_count": 85,
+        "ng_count": 15,
+        "total_images": 100,
+        "ok_rate": 85.0,
+        "ng_rate": 15.0
+    },
+    {
+        "date": "2024-11-26",
+        "ok_count": 90,
+        "ng_count": 10,
+        "total_images": 100,
+        "ok_rate": 90.0,
+        "ng_rate": 10.0
+    }
+]

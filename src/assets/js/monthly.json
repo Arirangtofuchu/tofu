@@ -1,0 +1,47 @@
+{
+    "2024-3": {
+        "average_total_images": 1200,
+        "average_ng_count": 150,
+        "average_ng_rate": 12.5
+    },
+    "2024-4": {
+        "average_total_images": 1100,
+        "average_ng_count": 130,
+        "average_ng_rate": 11.8
+    },
+    "2024-5": {
+        "average_total_images": 1300,
+        "average_ng_count": 100,
+        "average_ng_rate": 7.7
+    },
+    "2024-6": {
+        "average_total_images": 1000,
+        "average_ng_count": 126,
+        "average_ng_rate": 12.6
+    },
+    "2024-7": {
+        "average_total_images": 1500,
+        "average_ng_count": 130,
+        "average_ng_rate": 8.7
+    },
+    "2024-8": {
+        "average_total_images": 1100,
+        "average_ng_count": 135,
+        "average_ng_rate": 12.2
+    },
+    "2024-9": {
+        "average_total_images": 1140,
+        "average_ng_count": 300,
+        "average_ng_rate": 26.3
+    },
+    "2024-10": {
+        "average_total_images": 1200,
+        "average_ng_count": 130,
+        "average_ng_rate": 10.8
+    },
+    "2024-11": {
+        "average_total_images": 1100,
+        "average_ng_count": 150,
+        "average_ng_rate": 13.6
+    }
+}

@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    height: 100vh;
+  }
+  
+  .card {
+    background-color: #2E2E2E;
+    border: none;
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-body h6 {
+    font-family: Pretendard;
+    font-size: 24px;
+    font-weight: 600;
+    color: #FFF;
+    margin-bottom: 16px;
+  }
+  
+  .btn {
+    border: none;
+    border-radius: 5px;
+    font-family: Pretendard;
+    font-size: 24px;
+    font-weight: 600;
+    color: #FFFFFF;
+  }
+  
+  #statusMessage {
+    text-align: center;
+  }
+  
+ 
